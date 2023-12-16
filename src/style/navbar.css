@@ -1,0 +1,35 @@
+.navbar{
+    background-color: #263C28;
+    height: 110px;
+    display: flex;
+}
+.logo{
+    margin-left: 70px;
+    height:280px ;
+    width: 250px;
+    margin-top: 10px;
+    margin-right: 150px;
+}
+
+.menuitems{
+    margin-top: 20px;
+    color:#FFFFFF;
+    font-size: 18px;
+    padding: 25px;
+}
+.menuitems > div{
+    margin: auto;
+}
+.language-select{
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 5px;
+    background-color: #263C28;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    outline: none;
+    width: 172px;
+    height: 42px;
+}
+    
